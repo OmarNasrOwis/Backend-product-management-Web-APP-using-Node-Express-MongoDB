@@ -1,3 +1,4 @@
 node_modules
 /models/result.model.js
 /models/student.model.js
+.gitignore
